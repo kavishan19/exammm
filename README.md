@@ -1,2 +1,2 @@
-# exammm
-paff
+#pafproject:webservice
+#pafexam:-client
